@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PruebaEwol/static/css/main.48fd6580.css",
+    "main.js": "/PruebaEwol/static/js/main.6606ea9e.js",
+    "static/js/787.8732c9d5.chunk.js": "/PruebaEwol/static/js/787.8732c9d5.chunk.js",
+    "static/media/logo.svg": "/PruebaEwol/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PruebaEwol/index.html",
+    "main.48fd6580.css.map": "/PruebaEwol/static/css/main.48fd6580.css.map",
+    "main.6606ea9e.js.map": "/PruebaEwol/static/js/main.6606ea9e.js.map",
+    "787.8732c9d5.chunk.js.map": "/PruebaEwol/static/js/787.8732c9d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48fd6580.css",
+    "static/js/main.6606ea9e.js"
+  ]
+}
